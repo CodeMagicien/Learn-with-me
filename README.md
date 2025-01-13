@@ -1,5 +1,3 @@
-# Learn-with-me
-I am a beginner of C code. I am just learn C. So, here I give my code for your help. These code is going to be beginner to Advanced.
-This is a full written tutorial of C. It is a tutorial of beginner to master.
-So, join with me and enjoy code.
-I requested to python pro to contribute the code.
+# startingC
+I am a beginner in C programming, and I am currently learning the language. In this guide, I am sharing my code examples to help others on their learning journey. This tutorial takes you from beginner to advanced concepts, providing a comprehensive step-by-step approach to mastering C.
+Join me as we explore the world of C programming together and enjoy the process of writing code!
