@@ -1,0 +1,19 @@
+////////////////////////// Preface ///////////////////////////
+
+// C language is called mother of all languages
+// Dannis Ritchie created this in 1972
+// It is one of the first stable languages
+// It is created for develop unix operating system
+
+// The uses of C is :
+// ---> creating Operating System Development
+// ---> creating Realtime algorithms
+// ---> creating Embedded systems
+
+// Why the name is C?
+// Martin Richard created a programming language called    ' A ' in 1960s .
+// And then came out another language called 'B' known as ' Bpcl ' invented by Ken Thomson in 1969. 
+// Finally C was created in 1972.
+
+//At first, Brian kernighan wrote first hello program , 
+// while creating Bpcl( ' B ' language) 
